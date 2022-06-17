@@ -1,0 +1,43 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mat-form-field {
+    display: block;
+    position: relative;
+    flex: auto;
+    min-width: 0;
+    width: 590px;
+}
+
+h2{
+    text-align: center;
+    color: #2196F3;
+}
+h4{
+    text-align: center;
+    color: #2196F3;
+}
+
+.buttons{
+    margin-left: 30px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+mat-card{
+    width: 650px;
+    height: 500px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 100px;
+    vertical-align:middle;
+    border: 55px !important;
+    border-radius: 10px !important;
+    border: #000 !important;
+    }
+
+    .blue-snackbar {
+        background: #2196F3;
+      }
